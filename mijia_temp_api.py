@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
 
-# mitemp_bt library from here https://github.com/ratcashdev/mitemp/tree/master/mitemp_bt
-# Install bluepy first
-# sudo apt-get install libglib2.0-dev
-# sudo pip install bluepy
-# Run sudo blescan to get the MAC of your Mijia device
-# Make sure flask and btlewrap is installed via pip3
-# pip3 install flask
-# pip3 install btlewrap
-
 import argparse
 import re
 import logging
