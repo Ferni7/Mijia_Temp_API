@@ -1,5 +1,6 @@
 # Mijia_Temp_API
-Quick and Dirty REST API for the Mijia Temp Sensor. You can use this with things like this: https://github.com/lucacri/homebridge-http-temperature-humidity
+Quick and Dirty REST API for the Mijia Temp Sensor. 
+You can use this with things like this: https://github.com/lucacri/homebridge-http-temperature-humidity
 
 ### Pre-requisites
 Raspberry Pi w bluetooth
