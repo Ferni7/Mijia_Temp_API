@@ -10,6 +10,7 @@ sudo apt-get install libglib2.0-dev
 sudo pip install bluepy
 pip3 install flask
 pip3 install btlewrap
+pip3 install mitemp_bt
 ```
 
 ### Get the MAC of your Mijia (Look for something with the name MJ_HT_V1)
