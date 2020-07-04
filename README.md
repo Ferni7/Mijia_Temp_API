@@ -16,7 +16,7 @@ pip3 install btlewrap
 ```sudo blescan```
 
 ### Clone Repo
-```git clone ```
+```git clone https://github.com/Ferni7/Mijia_Temp_API.git ```
 
 ### Run the server
 ```
